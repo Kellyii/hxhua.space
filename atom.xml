@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kelly for 沉珂</title>
+  <icon>https://www.gravatar.com/avatar/1728cab43d2a5c96ce962e0966534a15</icon>
+  <subtitle>千里马常有，而伯乐不常有</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-05-02T14:47:32.537Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Kelly for 沉珂</name>
+    <email>2822168834@qq.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/posts/4a17b156.html"/>
+    <id>http://example.com/posts/4a17b156.html</id>
+    <published>2023-05-03T13:41:47.092Z</published>
+    <updated>2023-05-02T14:47:32.537Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>如何创建属于自己的博客</title>
+    <link href="http://example.com/posts/1de3cf88.html"/>
+    <id>http://example.com/posts/1de3cf88.html</id>
+    <published>2023-05-03T10:49:29.000Z</published>
+    <updated>2023-05-03T11:45:05.788Z</updated>
+    
+    <content type="html"><![CDATA[<h5 id="安装-Node-js-和-Git"><a href="#安装-Node-js-和-Git" class="headerlink" title="安装 Node.js 和 Git"></a>安装 Node.js 和 Git</h5><h6 id="在使用-Hexo-之前，需要先安装-Node-js-和-Git："><a href="#在使用-Hexo-之前，需要先安装-Node-js-和-Git：" class="headerlink" title="在使用 Hexo 之前，需要先安装 Node.js 和 Git："></a>在使用 Hexo 之前，需要先安装 Node.js 和 Git：</h6><h6 id="一、安装-Git-程序"><a href="#一、安装-Git-程序" class="headerlink" title="一、安装 Git 程序"></a>一、安装 Git 程序</h6><ol><li>下载 Git 安装程序：前往<a href="[https://git-scm.com/download/win](https://git-scm.com/download/win">官方网站</a>&gt;) “Git 官网”) 下载 Git 安装程序，选择适合你的 Windows 系统的安装程序，然后下载并保存到本地。</li><li>运行安装程序：双击下载的安装程序，选择语言，然后一路点击“下一步”进行安装。安装过程中，你可以保留默认的选项，或按需更改。</li><li>配置 Git：在安装过程中，你需要进行一些 Git 的配置，比如选择默认的文本编辑器、配置用户名和电子邮件等。你可以按照安装程序提供的指导来完成这些配置。</li><li>完成安装：完成所有配置后，点击“完成”按钮退出安装程序。</li><li>验证安装：打开命令提示符（或 PowerShell），输入“git —version”命令，如果出现版本号，则表示 Git 已经安装成功。</li></ol><h6 id="二、安装-Node-js"><a href="#二、安装-Node-js" class="headerlink" title="二、安装 Node.js"></a>二、安装 Node.js</h6><ol><li>前往官方网站：前往 Node.js 的 <a href="https://nodejs.org/zh-cn/download/" title="Node.js的官方网站">官方网站</a> ，下载适合你的 Windows 系统的安装程序，并保存到本地。</li><li>运行安装程序：双击下载的安装程序，选择语言，然后一路点击“下一步”进行安装。安装过程中，你可以保留默认的选项，或按需更改。</li><li>完成安装：完成所有配置后，点击“完成”按钮退出安装程序。</li><li>验证安装：打开命令提示符（或 PowerShell），输入“node -v”命令，如果出现版本号，则表示 Node.js 已经安装成功。</li></ol><h6 id="三、配置-Node-js-环境变量的步骤："><a href="#三、配置-Node-js-环境变量的步骤：" class="headerlink" title="三、配置 Node.js 环境变量的步骤："></a>三、配置 Node.js 环境变量的步骤：</h6><ol><li>打开开始菜单，搜索“环境变量”并打开“编辑系统环境变量”。</li><li>点击“环境变量”按钮，在“系统变量”中找到“Path”变量，双击它。</li><li>在弹出的“编辑环境变量”窗口中，点击“新建”按钮。</li><li>输入 Node.js 安装目录的路径。默认情况下，Node.js 被安装在“C:\Program Files\nodejs”目录下。如果你将它安装在其他目录下，请将路径设置为该目录的完整路径。</li><li>确认更改，关闭所有打开的窗口，打开命令提示符（或 PowerShell），输入“node -v”命令，如果出现版本号，则表示 Node.js 已经正确配置好了环境变量。</li></ol><p>请注意，配置环境变量是在系统范围内进行的，因此它会影响到所有用户和所有程序。如果你不想影响到其他用户和程序，请考虑将环境变量设置为用户级别。</p><hr><h6 id="四、安装-Hexo："><a href="#四、安装-Hexo：" class="headerlink" title="四、安装 Hexo："></a>四、安装 Hexo：</h6><ol><li>在桌面或者磁盘的任意位置新建 hexo 文件夹并且打开它。</li><li>在打开后的文件夹中按住 Shift 键同时右击鼠标选择，打开命令提示符（或 PowerShell）</li><li><p>在打开的打开命令提示符中依次输入以下代码块</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure><p>这将全局安装 Hexo 命令行工具。</p><p>创建一个新的 Hexo 站点：使用 Hexo 创建一个新的站点非常简单，只需执行以下命令：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo init myblog</span><br><span class="line">cd myblog</span><br><span class="line">npm install</span><br></pre></td></tr></table></figure><p>这将在当前目录下创建一个名为“myblog”的新站点，并安装所有必要的依赖项。</p><p>配置 Hexo：在使用 Hexo 之前，你需要对其进行配置，以便正确地生成和部署你的博客。打开“_config.yml”文件，并根据自己的需求进行配置。例如，你可以更改站点名称、主题、语言和 URL 等。</p><p>创建新文章：使用 Hexo 创建新文章非常简单。只需在终端中执行以下命令：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo new &quot;Hello World&quot;</span><br><span class="line"></span><br></pre></td></tr></table></figure><p>这将在“source/_posts”目录下创建一个名为“hello-world.md”的新文章。使用 Markdown 语法编写文章内容。</p><p>生成静态文件：使用 Hexo 生成静态文件非常简单。只需在终端中执行以下命令：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo generate</span><br><span class="line"></span><br></pre></td></tr></table></figure><p>这将在“public”目录下生成所有静态文件。你可以在本地预览你的博客，或者将生成的文件部署到服务器上。</p></li></ol><blockquote><p>您要是没有服务器或者代码仓库可以使用以下命令在本地预览您搭建的博客</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo server</span><br><span class="line"></span><br></pre></td></tr></table></figure><p>这将启动 Hexo 本地服务器，并监听端口号为 4000。在浏览器中输入“<a href="http://localhost:4000%E2%80%9D%E5%8D%B3%E5%8F%AF%E6%9F%A5%E7%9C%8B%E4%BD%A0%E7%9A%84%E5%8D%9A%E5%AE%A2%E3%80%82/">http://localhost:4000”即可查看你 的博客。</a></p><p>编写和修改文章：在 Hexo 根目录下，使用终端执行以下命令，即可创建新文章或修改已有文章：</p></blockquote><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">12345</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h5 id=&quot;安装-Node-js-和-Git&quot;&gt;&lt;a href=&quot;#安装-Node-js-和-Git&quot; class=&quot;headerlink&quot; title=&quot;安装 Node.js 和 Git&quot;&gt;&lt;/a&gt;安装 Node.js 和 Git&lt;/h5&gt;&lt;h6 id=&quot;在使用-Hexo-</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>如何在hexo上创建一篇文章</title>
+    <link href="http://example.com/posts/e043b629.html"/>
+    <id>http://example.com/posts/e043b629.html</id>
+    <published>2023-05-02T11:10:26.000Z</published>
+    <updated>2023-05-02T14:47:22.640Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>[ ] 1</li><li>[ ] 2</li><li>[ ] 3</li><li>[ ] 4</li><li>[ ] 5</li><li>[ ] <a href="">bd</a></li><li>[ ] 12312312312</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;[ ] 1&lt;/li&gt;
+&lt;li&gt;[ ] 2&lt;/li&gt;
+&lt;li&gt;[ ] 3&lt;/li&gt;
+&lt;li&gt;[ ] 4&lt;/li&gt;
+&lt;li&gt;[ ] 5&lt;/li&gt;
+&lt;li&gt;[ ] &lt;a href=&quot;&quot;&gt;bd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[ ] 12312312312&lt;/li&gt;
+&lt;/ul</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
