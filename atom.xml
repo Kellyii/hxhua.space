@@ -3,11 +3,11 @@
   <title>Kelly for 沉珂</title>
   <icon>https://www.gravatar.com/avatar/1728cab43d2a5c96ce962e0966534a15</icon>
   <subtitle>千里马常有，而伯乐不常有</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://github.com/Kellyii/hxhua.space.git/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://github.com/Kellyii/hxhua.space.git/"/>
   <updated>2023-05-02T14:47:32.537Z</updated>
-  <id>http://example.com/</id>
+  <id>https://github.com/Kellyii/hxhua.space.git/</id>
   
   <author>
     <name>Kelly for 沉珂</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://github.com/Kellyii/hxhua.space.git/posts/4a17b156.html"/>
+    <id>https://github.com/Kellyii/hxhua.space.git/posts/4a17b156.html</id>
     <published>2023-05-03T13:41:47.092Z</published>
     <updated>2023-05-02T14:47:32.537Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>如何创建属于自己的博客</title>
-    <link href="http://example.com/posts/1de3cf88.html"/>
-    <id>http://example.com/posts/1de3cf88.html</id>
+    <link href="https://github.com/Kellyii/hxhua.space.git/posts/1de3cf88.html"/>
+    <id>https://github.com/Kellyii/hxhua.space.git/posts/1de3cf88.html</id>
     <published>2023-05-03T10:49:29.000Z</published>
     <updated>2023-05-03T11:45:05.788Z</updated>
     
@@ -58,8 +58,8 @@
   
   <entry>
     <title>如何在hexo上创建一篇文章</title>
-    <link href="http://example.com/posts/e043b629.html"/>
-    <id>http://example.com/posts/e043b629.html</id>
+    <link href="https://github.com/Kellyii/hxhua.space.git/posts/e043b629.html"/>
+    <id>https://github.com/Kellyii/hxhua.space.git/posts/e043b629.html</id>
     <published>2023-05-02T11:10:26.000Z</published>
     <updated>2023-05-02T14:47:22.640Z</updated>
     
